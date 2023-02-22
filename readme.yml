@@ -1,0 +1,31 @@
+#########install axios for communicate to database
+npm install axios
+
+######install boostrap
+npm install bootstrap
+npm i react-bootstrap after import bootstrap inside index.js
+######Import boostrap in index.js
+bootstrap/dist/css/bootstrap.min.css
+#####Install fontawsome
+npm i @fortawesome/react-fontawesome
+npm i @fortawesome/free-solid-svg-icons
+####react player 
+npm i react-player
+####intall react router
+npm i react-router-dom
+###Intall mui/material for carousel
+npm install @mui/material @emotion/react @emotion/styled
+npm install react-material-ui-carousel
+
+####setup axios for call api
+import axios and write the following code
+##export default axios.create({
+##baseURL:'http://9c96-103-106-239-104.ap.ngrok.io/',
+##headers: {"ngrok-skip-browser-warning": "true"}
+})
+
+###async await
+  it is usefull in order to insure data user experience
+
+#### arf for generate auto fonction react complétion
+
